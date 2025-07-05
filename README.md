@@ -5,7 +5,8 @@ Palmora Group HR Analysis
 This project is part of the DSA Data Analysis Capstone. It explores Palmora Group’s HR data to uncover gender distribution, salary structure, and compliance with minimum wage policies.
 
 Tools Used
-- Python (Pandas, Matplotlib)
+- Excel
+- Power BI
 - Microsoft Word
 
  Key Insights
